@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "title": "fd",
+      "task": "gf",
+      "id": 1
+    },
+    {
+      "title": "fd",
+      "task": "fgdg",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
